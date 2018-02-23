@@ -1,7 +1,7 @@
 {
   "name": "py-range",
-  "version": "0.0.1",
-  "description": "Lightweight implementation of pythons `range( a, b, [step] )`",
+  "version": "1.0.0",
+  "description": "Lightweight implementation of Python's `range( a, b, [step] )`",
   "repository": "jneidel/py-range",
   "license": "MIT",
   "author": {

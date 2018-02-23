@@ -27,5 +27,3 @@ describe( "py-range", () => {
       .toBe( c( [ 0, 1, 2, 3, 4 ] ) );
   } );
 } );
-
-console.log( range( 1, 3 ) );
