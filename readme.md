@@ -1,16 +1,17 @@
 # py-range
 
 [![](https://circleci.com/gh/jneidel/py-range/tree/master.svg?style=shield&circle-token=540177832045022353a950b34b09cbd8e1c0cea1)](https://circleci.com/gh/jneidel/py-range)
+[![](https://img.shields.io/npm/dw/py-range.svg)](https://www.npmjs.com/package/py-range)
 
 Lightweight implementation of Python's `range( a, b, [step] )`.
 
 ## Install
 
+[![](https://img.shields.io/npm/v/py-range.svg)](https://www.npmjs.com/package/py-range)
+
 ```
 $ npm install py-range
 ```
-
-[https://www.npmjs.com/package/py-range](https://www.npmjs.com/package/py-range)
 
 ## Usage
 
